@@ -1,0 +1,21 @@
+{
+    "name": "line-chart",
+    "version": "1.0.0",
+    "title": "折线图",
+    "description": "折线图",
+    "type": "block",
+    "platform": [
+        "PC"
+    ],
+    "homePage": "/materials/24/dist07d10257794bf104d7e31d918b7d6cb3/index.html",
+    "category": [
+        "图表"
+    ],
+    "screenshots": [
+        "/screenshots/24/07d10257794bf104d7e31d918b7d6cb3/1566825842776.png",
+        "/screenshots/24/07d10257794bf104d7e31d918b7d6cb3/1566898921279.png"
+    ],
+    "path": "blocks/LineChart",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "hash": "07d10257794bf104d7e31d918b7d6cb3"
+}

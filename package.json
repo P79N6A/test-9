@@ -1,0 +1,49 @@
+{
+    "name": "@vue-materials/line-chart-block",
+    "version": "1.0.0",
+    "description": "v-charts 折线图",
+    "author": "ice-admin@alibaba-inc.com",
+    "files": [
+        "src/",
+        "lib/"
+    ],
+    "scripts": {
+        "dev": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ice-lab/vue-materials/tree/master/blocks/LineChart"
+    },
+    "license": "MIT",
+    "keywords": [
+        "ice",
+        "ice-block"
+    ],
+    "publishConfig": {
+        "access": "public",
+        "registry": "http://registry.npmjs.com"
+    },
+    "dependencies": {
+        "@vue-materials/basic-container": "^1.0.0",
+        "echarts": "^4.0.4",
+        "element-ui": "^2.11.1",
+        "node-sass": "^4.12.0",
+        "v-charts": "^1.16.10",
+        "vue": "^2.6.10"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^3.10.0",
+        "sass-resources-loader": "^2.0.1",
+        "vue-template-compiler": "^2.6.10"
+    },
+    "blockConfig": {
+        "name": "line-chart",
+        "title": "折线图",
+        "categories": [
+            "图表"
+        ],
+        "screenshot": "https://img.alicdn.com/tfs/TB1V0S2pQyWBuNjy0FpXXassXXa-1964-842.png"
+    }
+}
